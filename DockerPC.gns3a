@@ -13,6 +13,6 @@
     "symbol": "docker_guest.svg",
     "docker": {
         "adapters": 2,
-        "image": "gabrieljcx/internetlab"
+        "image": "gabrieljcx/internet-lab"
     }
 }
