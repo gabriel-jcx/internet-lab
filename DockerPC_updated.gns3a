@@ -13,6 +13,6 @@
     "symbol": "docker_guest.svg",
     "docker": {
         "adapters": 2,
-        "image": "mhsuu123/public-repo"
+        "image": "gabrieljcx/internetlab"
     }
 }
